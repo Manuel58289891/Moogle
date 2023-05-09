@@ -1,0 +1,120 @@
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+F:\Nueva carpeta\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\appsettings.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache

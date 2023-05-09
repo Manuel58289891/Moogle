@@ -1,0 +1,48 @@
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+F:\Nueva carpeta\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\soy gauy\Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\OptimusPC\Downloads\Telegram Desktop\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\OptimusPC\Documents\First project moogle-2021\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
